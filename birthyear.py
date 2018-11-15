@@ -7,7 +7,3 @@ else:
         print("youth")
     else:
         print("elder")
-     
-
-
-
